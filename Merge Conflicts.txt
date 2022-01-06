@@ -1,0 +1,3 @@
+-----"How to resolve merge conflicts"--------
+beacuse of the same filname(commands.txt) in different branch(main & branch-1) so we face a merge conflicts.
+After that conflicts occur we add file in our local branch and then commit so that conflicts will be resolved.
