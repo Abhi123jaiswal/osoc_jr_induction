@@ -1,0 +1,28 @@
+commit edd4514e7d310cab5a133bb42a77e8c8b9b3be24 (HEAD -> branch1)
+Merge: 08a345f 91abf45
+Author: abhishek <abhishekashokjaiswal08@gmail.com>
+Date:   Thu Jan 6 10:44:40 2022 +0530
+
+    commit in branch1
+
+commit 08a345f47b43f7dfb1e86dbebb3ee5a72e39ef3a
+Author: abhishek <abhishekashokjaiswal08@gmail.com>
+Date:   Thu Jan 6 10:42:03 2022 +0530
+
+    changes in another branch
+
+commit 91abf4524ef681401c8d291c8b68cffc3cc0cbea (main)
+Author: abhishek <abhishekashokjaiswal08@gmail.com>
+Date:   Thu Jan 6 10:39:42 2022 +0530
+
+    changes done in Git commands,txt
+
+commit b9ade868a21a0ad40a24064a473aac8d9da042f9
+Author: abhishek <abhishekashokjaiswal08@gmail.com>
+Date:   Thu Jan 6 10:36:31 2022 +0530
+
+    merge conflicts added
+
+commit 73b71be5416085aabe771f7dd7368d97d60f0627
+Author: abhishek <abhishekashokjaiswal08@gmail.com>
+Date:   Thu Jan 6 10:32:57 2022 +0530
