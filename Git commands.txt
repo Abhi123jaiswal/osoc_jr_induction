@@ -1,4 +1,4 @@
-"Initial commit-1" 
+"Initial changes" 
 
 1. git init
 The command git init is used to create an empty Git repository. 
